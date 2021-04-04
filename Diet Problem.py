@@ -115,7 +115,7 @@ for v in prob2.variables():
 print("Total Cost of the diet =", value(prob2.objective))
 
 
-# Solving the models for the file diet_large.xls, which is a low-cholesterol diet model (rather than minimizing cost, the goal is to minimize cholesterol intake).
+# 3. Solving the models for the file diet_large.xls, which is a low-cholesterol diet model (rather than minimizing cost, the goal is to minimize cholesterol intake).
 
 # In[31]:
 
